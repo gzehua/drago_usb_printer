@@ -1,7 +1,7 @@
 import 'dart:convert';
 import 'dart:async';
 import 'package:drago_usb_printer/drago_usb_printer.dart';
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 import 'package:flutter/services.dart';
 
 void main() => runApp(const MyApp());
