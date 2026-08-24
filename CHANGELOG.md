@@ -48,4 +48,8 @@
 
 ## 0.1.4
 
-* Improve bulk usb print 
+* Improve bulk usb print
+
+## 0.1.5
+
+* Upgrade Android AGP 
