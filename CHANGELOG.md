@@ -53,3 +53,7 @@
 ## 0.1.5
 
 * Upgrade Android AGP 
+
+## 0.1.6
+
+* Fix Android AGP 
