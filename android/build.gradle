@@ -13,9 +13,7 @@ rootProject.allprojects {
 }
 
 android {
-    if (project.android.hasProperty("namespace")) {
-        namespace = "app.sks.client.drago_usb_printer"
-    }
+    namespace = "app.sks.client.drago_usb_printer"
 
     compileSdk = 37
 
